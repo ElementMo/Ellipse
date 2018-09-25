@@ -8,6 +8,7 @@ void setup()
   noFill();
   frameRate(100);
   noCursor();
+  smooth(8);
 }
 void draw()
 {
